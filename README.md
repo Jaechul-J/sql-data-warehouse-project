@@ -58,6 +58,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 For more details, refer to docs/requirements.md.
 
 📂 Repository Structure
+```text
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -81,26 +82,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-☕ Stay Connected
-Let's stay in touch! Feel free to connect with me on the following platforms:
 
-YouTube LinkedIn Website Newsletter PayPal Join
-
-All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
-
-✅ SQL Full Course: Course Link | Download Materials | GIT Repo
-
-✅ Tableau Full Course: Course Link | Download Materials | Public
-
-✅ SQL Data Warehouse Project: Course Link | Download Materials | GIT Repo
-
-✅ SQL Exploratory Data Analysis Project: Course Link | Download Materials | GIT Repo
-
-✅ SQL Advanced Data Analysis Project: Course Link | Download Materials | GIT Repo
-
-✅ Tableau Sales Project: Course Link | Download Materials | Public
-
-✅ Tableau HR Project: Course Link | Download Materials | Public
 
 ✅ ChatGPT: Course Link | Download Materials
 
